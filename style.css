@@ -1,0 +1,25 @@
+
+h1 {
+  margin-top: 4rem;
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+
+.slider {
+    width: 50%;
+    margin: 100px auto;
+}
+
+.thumbnail {
+    width: 25%;
+    margin: auto;
+}
+
+.thumbnail div {
+  margin: 2%;
+}
+
+.slick-slide img {
+  width: 100%;
+}
